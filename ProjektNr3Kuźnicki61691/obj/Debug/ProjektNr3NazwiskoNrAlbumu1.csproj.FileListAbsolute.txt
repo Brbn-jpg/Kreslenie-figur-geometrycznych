@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe.config
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.KokpitProjektuNr3.resources
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.Properties.Resources.resources
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+C:\Users\student\Desktop\ProjektNr3NazwiskoNrAlbumu1\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb

@@ -1,0 +1,65 @@
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe.config
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\obj\Debug\ProjektNr3Kuźnicki61961.csproj.AssemblyReference.cache
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\obj\Debug\ProjektNr3Kuźnicki61961.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\obj\Debug\ProjektNr3Kuźnicki61961.KokpitProjektuNr3.resources
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\obj\Debug\ProjektNr3Kuźnicki61961.LaboratoriumNr3.resources
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.ProjektNr3.resources
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.Properties.Resources.resources
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\obj\Debug\ProjektNr3Kuźnicki61961.csproj.GenerateResource.cache
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\obj\Debug\ProjektNr3Kuźnicki61961.csproj.CoreCompileInputs.cache
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3NazwiskoNrAlbumu3\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe.config
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.AssemblyReference.cache
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.KokpitProjektuNr3.resources
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.LaboratoriumNr3.resources
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.Properties.Resources.resources
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.GenerateResource.cache
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.CoreCompileInputs.cache
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
+C:\Users\kubon\OneDrive\Pulpit\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.ProjektNr3.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe.config
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.AssemblyReference.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.SuggestedBindingRedirects.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.KokpitProjektuNr3.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.LaboratoriumNr3.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.ProjektNr3.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.Properties.Resources.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.GenerateResource.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.CoreCompileInputs.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+E:\Szkola\Semestr1\C#_Projekty_Completed\drugi\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe.config
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.AssemblyReference.cache
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.SuggestedBindingRedirects.cache
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.KokpitProjektuNr3.resources
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.LaboratoriumNr3.resources
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.ProjektNr3.resources
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.Properties.Resources.resources
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.GenerateResource.cache
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.CoreCompileInputs.cache
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+C:\Users\legoo\Desktop\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe.config
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\bin\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.AssemblyReference.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.SuggestedBindingRedirects.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.KokpitProjektuNr3.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.LaboratoriumNr3.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.ProjektNr3.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.Properties.Resources.resources
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.GenerateResource.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3Kuźnicki61961.csproj.CoreCompileInputs.cache
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.exe
+E:\Szkola\Semestr1\C#_Projekty_Completed\projekt nr3\ProjektNr3Kuźnicki61691\obj\Debug\ProjektNr3NazwiskoNrAlbumu1.pdb
